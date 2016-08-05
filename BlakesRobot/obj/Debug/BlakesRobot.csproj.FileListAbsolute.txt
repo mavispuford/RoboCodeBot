@@ -1,0 +1,7 @@
+c:\users\blake\documents\visual studio 2015\Projects\BlakesRobot\BlakesRobot\bin\Debug\BR.KillBotFiveThousand_1.0.dll
+c:\users\blake\documents\visual studio 2015\Projects\BlakesRobot\BlakesRobot\bin\Debug\BR.KillBotFiveThousand_1.0.pdb
+c:\users\blake\documents\visual studio 2015\Projects\BlakesRobot\BlakesRobot\bin\Debug\robocode.dll
+c:\users\blake\documents\visual studio 2015\Projects\BlakesRobot\BlakesRobot\bin\Debug\robocode.xml
+c:\users\blake\documents\visual studio 2015\Projects\BlakesRobot\BlakesRobot\obj\Debug\BlakesRobot.csprojResolveAssemblyReference.cache
+c:\users\blake\documents\visual studio 2015\Projects\BlakesRobot\BlakesRobot\obj\Debug\BR.KillBotFiveThousand_1.0.dll
+c:\users\blake\documents\visual studio 2015\Projects\BlakesRobot\BlakesRobot\obj\Debug\BR.KillBotFiveThousand_1.0.pdb
